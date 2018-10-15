@@ -1,0 +1,15 @@
+{
+  "pandas/tests/categorical/test_repr.py::TestCategoricalRepr::()::test_categorical_repr_datetime": true,
+  "pandas/tests/categorical/test_repr.py::TestCategoricalRepr::()::test_categorical_repr_datetime_ordered": true,
+  "pandas/tests/categorical/test_repr.py::TestCategoricalRepr::()::test_categorical_repr_period": true,
+  "pandas/tests/categorical/test_repr.py::TestCategoricalRepr::()::test_categorical_repr_period_ordered": true,
+  "pandas/tests/categorical/test_repr.py::TestCategoricalRepr::()::test_categorical_repr_timedelta": true,
+  "pandas/tests/categorical/test_repr.py::TestCategoricalRepr::()::test_categorical_repr_timedelta_ordered": true,
+  "pandas/tests/io/formats/test_format.py::TestDataFrameFormatting::()::test_repr_truncates_terminal_size": true,
+  "pandas/tests/series/test_repr.py::TestCategoricalRepr::()::test_categorical_series_repr_datetime": true,
+  "pandas/tests/series/test_repr.py::TestCategoricalRepr::()::test_categorical_series_repr_datetime_ordered": true,
+  "pandas/tests/series/test_repr.py::TestCategoricalRepr::()::test_categorical_series_repr_period": true,
+  "pandas/tests/series/test_repr.py::TestCategoricalRepr::()::test_categorical_series_repr_period_ordered": true,
+  "pandas/tests/series/test_repr.py::TestCategoricalRepr::()::test_categorical_series_repr_timedelta": true,
+  "pandas/tests/series/test_repr.py::TestCategoricalRepr::()::test_categorical_series_repr_timedelta_ordered": true
+}
